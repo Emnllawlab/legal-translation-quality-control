@@ -32,7 +32,7 @@
 | 订金 | 付款或预订款，不当然产生定金规则 | 原文是否有意将其与定金区分？ |
 | 保证金 | 依文件功能可能是担保、投标、履约或其他 deposit | 该款项的功能和返还条件是什么？ |
 | 折价 | 以价值评估为基础的补偿或计价处理 | 这里是 convert into money、set-off、price adjustment，还是估价补偿？ |
-| 不能清偿 | 起点是无力支付或清偿债务，不是单纯未付款或存在未清余额；应结合引用语境复核 | 是否保留 inability to pay/satisfy？没有明确或有法律依据时，不得加入 “as they fall due”。 |
+| 不能清偿 | 针对本次测试的公司责任句式，reviewed starting point 为 “debts that the company is unable to satisfy”；这是可反驳、依语境调整的起点，不是普遍答案。只有原文语境支持时，才考虑 “unable to pay its debts”。裸用 “unpaid debts”、“outstanding debts/balance” 或 “unsatisfied debts” 均应排除，因为它们只陈述未付款或余额状态，没有保留无力清偿。 | 译文是否明确表达 inability to pay/satisfy？除非原文或适用法律检验支持到期要求，否则不得加入 “as they fall due”。 |
 | 补充赔偿责任 | 主债务人不足清偿后的补充性赔偿责任 | 是否与 joint and several liability 以及补充清偿责任区分？ |
 | 连带责任 | 在法律规则范围内，每一责任人可能被要求承担全部债务 | 译文是否保留更强的责任分配效果？ |
 | 不当得利 | 无法律依据取得利益而产生的返还请求 | 请求是 restitution、damages，还是合同付款？ |
