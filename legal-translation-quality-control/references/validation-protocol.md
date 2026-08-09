@@ -1,53 +1,53 @@
-# Validation Protocol
+# 验证规程
 
-Use this file to test the method after a workflow or anchor change and for high-risk projects. Do not make ordinary translation wait for a full research audit.
+工作流或锚点发生变化后，以及处理高风险项目时，使用本文件测试方法。普通翻译不必等待完整研究审计。
 
-## Holdout design
+## 留出样本设计
 
-Select real, publicly accessible legal text not used to write or tune the current anchors. Keep the source, answer, and issue list outside the installed skill. Prefer continuous passages with several propositions over isolated terms.
+选择未用于编写或调整现有锚点的真实、公开可访问法律文本。将原文、参考答案和问题清单保存在已安装技能之外。优先选择包含多个法律命题的连续段落，而不是孤立术语。
 
-Include samples that test conditions, exceptions, scope, procedural posture, remedy, priority, responsibility, and historical or cross-system collisions. Do not reveal the expected answer to the translator or the independent reviewer.
+样本应测试条件、例外、范围、程序位置、救济、优先顺位、责任，以及历史法或跨法系冲突。不要向翻译者或独立审阅者透露预期答案。
 
-## Forward translation
+## 正向翻译
 
-1. Extract a proposition list before translating: actors, conduct, conditions, exceptions, scope, procedure, remedy, and effect.
-2. Run the current skill in the intended mode.
-3. Record Tier 1 choices, assumptions, and verification points.
-4. Do not preserve Chinese syntax merely to make later back-translation easier.
+1. 翻译前先提取法律命题：主体、行为、条件、例外、范围、程序、救济和效果。
+2. 按预定模式运行当前技能。
+3. 记录 Tier 1 选择、假设和核验事项。
+4. 不要仅为方便日后回译而保留中文句法。
 
-## Blind round trip
+## 盲回译
 
-Have a fresh context translate the English back into Chinese without seeing the original, answer, anchor file, or prior review. For Tier 1 passages, use two independent back-translations where practical. Compare legal propositions, not wording.
+在全新的上下文中，让翻译者在看不到原文、参考答案、锚点文件或此前审阅意见的情况下，将英文回译成中文。对 Tier 1 段落，条件允许时进行两次独立回译。比较法律命题，不比较字面措辞。
 
-Check:
+## 检查项目
 
-| Area | Question |
+| 项目 | 检查问题 |
 |---|---|
-| Actors | Are the same persons or institutions acting or protected? |
-| Relations | Are rights, duties, powers, defences, and liabilities unchanged? |
-| Elements | Are conditions, thresholds, presumptions, exceptions, and negation preserved? |
-| Scope | Are partial/whole, included/limited, relative/absolute distinctions intact? |
-| Time | Are dates, sequence, duration, maturity, and historical law preserved? |
-| Procedure | Is the posture, application, appeal, retrial, recognition, or enforcement accurate? |
-| Remedy | Are the result, damages, priority, and third-party effects accurate? |
-| Target reading | Does the English import a foreign-law element or consequence? |
+| 主体 | 行为主体或受保护的主体是否相同？ |
+| 关系 | 权利、义务、权力、抗辩和责任是否没有改变？ |
+| 要件 | 条件、门槛、推定、例外和否定是否得到保留？ |
+| 范围 | 部分/全部、包含/限制、相对/绝对等区别是否完整？ |
+| 时间 | 日期、顺序、持续期间、到期及历史法律是否得到保留？ |
+| 程序 | 程序位置、申请、上诉、再审、承认或执行是否准确？ |
+| 救济 | 结果、损害赔偿、优先顺位和对第三人的效力是否准确？ |
+| 目标读法 | 英文是否引入了外国法的构成要件或法律后果？ |
 
-## Regression propositions
+## 回归命题
 
-Retain these abstract propositions in the holdout set after relevant revisions:
+每次相关修改后，都在留出样本中保留以下抽象命题：
 
-- A proposition expressing inability to satisfy a debt must not be weakened to mere nonpayment or an outstanding status; do not add a maturity condition without a stated or legally supported basis.
-- When the supplied date selects historical law, historical terminology must not be silently modernized or replaced by a generic near-synonym.
+- 表达不能清偿债务的命题，不得弱化为单纯未付款或存在未清余额的状态；没有原文或法律依据时，不得添加到期条件。
+- 已提供的日期指向历史法时，不得默默把历史术语现代化或替换为一般近义词。
 
-## Error grading
+## 错误分级
 
-- H: changes actor, element, condition, right, duty, procedure, remedy, priority, or legal effect.
-- T: a system or context term is wrong but the proposition remains recoverable.
-- S: meaning survives but drafting is unsuitable.
-- P: an acceptable stylistic preference.
+- H：改变主体、要件、条件、权利、义务、程序、救济、优先顺位或法律效果。
+- T：法系或语境术语错误，但法律命题仍可恢复。
+- S：含义保留，但文书表达不合适。
+- P：可以接受的文风偏好。
 
-Release a revised Tier 1 sample only when H=0 and material T issues are resolved. A back-translation difference alone is not an error: first determine whether the English permits the original legal meaning.
+只有 H=0 且重大 T 类问题已经解决，才放行修订后的 Tier 1 样本。回译不同本身不等于错误；先判断英文是否仍允许原法律含义成立。
 
-## Maintenance rule
+## 维护规则
 
-When a holdout exposes a repeatable problem, add the smallest self-authored guardrail or trigger that would prevent it. Do not add the whole source passage, a case narrative, or a long glossary. Re-test with a fresh holdout after each material change. Keep a project test record outside the skill with source, date, proposition list, outputs, errors, cause, revision, and re-test result.
+留出样本暴露出可重复的问题时，只增加能够防止该问题的最小自撰控制规则或触发词。不要加入完整原文段落、案例叙事或长词表。每次实质修改后，用新的留出样本重新测试。将项目测试记录保存在技能之外，记录来源、日期、法律命题、输出、错误、原因、修改和复测结果。

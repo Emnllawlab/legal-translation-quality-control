@@ -1,16 +1,16 @@
-# Notice
+# 项目说明
 
-Project attribution: DL-Agenticlaw.
+项目署名：DL-Agenticlaw。
 
-This publicly available, non-commercial project contains only:
+本公开提供、禁止商用的项目仅包含：
 
-- self-authored legal translation quality-control methodology and drafting guidance; and
-- a small independently selected and reviewed set of factual term pairs, used as risk anchors with contextual guardrails.
+- 自行撰写的法律翻译质量控制方法和起草指导；以及
+- 少量经独立选择和审阅的事实性术语对应，用作带有语境控制的风险锚点。
 
-DL-Agenticlaw claims copyright, to the extent copyright subsists and is permitted by applicable law, in the original methodology, contextual guardrails, commentary, and original selection, coordination, and arrangement of this compact compilation. It makes no copyright claim in bare factual term equivalences themselves, facts, or ideas, and does not overstate rights in third-party or otherwise non-protectable material.
+在适用法律允许且相关内容构成著作权客体的范围内，DL-Agenticlaw 对原创方法、语境控制、说明文字，以及本精简汇编的选择、协调和编排主张著作权。对单纯事实性的术语对应、事实或思想不主张著作权，也不对第三方材料或其他不受著作权保护的内容主张超出范围的权利。
 
-It does not contain dictionary or textbook prose, source ordering, a bulk extracted glossary, OCR material, private materials, or case narrative. The anchors are not presented as a comprehensive dictionary or as binding answers. They are prompts for legal-effect analysis and source verification.
+本项目不包含词典或教材原文、来源中的编排顺序、大规模提取的词表、OCR 材料、私有资料或案例叙事。锚点不是完整词典，也不是必须采用的答案；它们只是法律效果分析和法源核验的提示。
 
-The project is licensed under CC BY-NC 4.0. Attribution to DL-Agenticlaw is required. Commercial use is prohibited. Adaptations and derivatives are permitted subject to the licence. All rights not expressly granted are reserved. No trademark, trade-name, endorsement, or promotional right in “DL-Agenticlaw” or in the project name “Legal Translation Quality Control” is granted. See [LICENSE](LICENSE).
+项目采用 CC BY-NC 4.0。必须署名 DL-Agenticlaw；禁止商用；允许在许可证条件下修改、改编和制作衍生版本；未明确授予的权利均予保留。许可证不授予对“DL-Agenticlaw”或项目名称“Legal Translation Quality Control”的商标、商号、背书或推广权。详见 [LICENSE](LICENSE)。如本说明或其他中文解释性文字与英文 [LICENSE](LICENSE) 不一致，以英文许可证为准。
 
-The project is provided without warranty and is not legal advice, a certified translation, or a substitute for checking the governing law and authoritative text. No representation is made that the project or any derivative is non-infringing in every jurisdiction. Users remain responsible for source rights, non-infringement review, legal accuracy, currentness, and suitability for the intended use.
+本项目不提供任何保证，不构成法律意见、认证翻译，也不能替代对适用法律和权威文本的核对。本项目不声明其本身或任何衍生版本在所有法域均不存在侵权风险。用户仍应自行负责来源权利、侵权风险审查、法律准确性、时效性以及与预定用途的适配性。

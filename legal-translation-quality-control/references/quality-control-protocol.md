@@ -1,73 +1,75 @@
-# Quality-Control Protocol
+# 质量控制规程
 
-Use this file for the detailed review sequence. Keep ordinary low-risk work proportionate; do not turn every sentence into a research memorandum.
+本文件用于执行详细审阅顺序。普通低风险内容按比例处理，不要把每句话都做成研究备忘录。
 
-## Contents
+## 目录
 
-- Four-axis intake
-- Risk classification
-- Two-pass translation
-- Term decisions
-- Legal-effect review
-- Release checklist
+- 四维信息收集
+- 风险分级
+- 两轮翻译
+- 术语决策
+- 法律效果审查
+- 放行清单
 
-## Four-axis intake
+## 四维信息收集
 
-Record only what is needed for the decision:
+只记录作出翻译判断所需的信息：
 
 | Axis | Minimum decision |
 |---|---|
-| Source system | PRC, US/UK common law, Hong Kong, treaty/international, or mixed |
-| Direction | Chinese→English or English→Chinese |
-| Date | Governing law or legally relevant date; state an assumption if material |
-| Use/readers | Internal, client, court/arbitration, regulator, signing, comparison, or academic |
+| 维度 | 最低限度的判断 |
+|---|---|
+| 源法系 | 中国大陆法、美国/英国普通法、香港法、条约/国际法或混合法域 |
+| 方向 | 中文→英文或英文→中文 |
+| 日期 | 适用法律或具有法律意义的日期；日期重要时说明假设 |
+| 用途/读者 | 内部、客户、法院/仲裁、监管、签署、对照或学术 |
 
-If the document itself resolves an axis, use it. Ask only when an unresolved axis would change the legal wording, verification source, or release mode.
+文件本身已经解决的维度直接采用。只有未解决的维度会改变法律措辞、核验来源或交付模式时才提问。
 
-## Risk classification
+## 风险分级
 
-Tier 1 covers status, elements, conditions, exceptions, procedure, remedy, priority, burden, liability, and legal effect. Tier 2 covers definitions, institutions, document names, repeated terms, and project-wide consistency. Tier 3 covers ordinary prose.
+Tier 1 包括法律地位、构成要件、条件、例外、程序、救济、优先顺位、举证责任、责任和法律效果。Tier 2 包括定义、机构、文书名称、重复术语和项目全文一致性。Tier 3 包括普通表述。
 
-Escalate a term to Tier 1 when a plausible alternative would alter who acts, who is protected, what must be proved, what procedure is available, or what result follows. Do not escalate solely because a word sounds formal.
+只要合理的备选译法可能改变行为主体、受保护对象、待证明事项、可用程序或法律结果，就将术语提升为 Tier 1。不要仅因某个词听起来正式就提高等级。
 
-## Two-pass method
+## 两轮方法
 
-### Pass one: legal structure
+### 第一轮：法律结构
 
-Mark each proposition's actor, conduct, object, legal relation, condition, exception, time, quantity, scope, standard, procedure, remedy, and consequence. Preserve the source's level of certainty and normative force.
+标出每个法律命题的主体、行为、对象、法律关系、条件、例外、时间、数量、范围、标准、程序、救济和后果。保留原文的确定程度和规范强度。
 
-### Pass two: target drafting
+### 第二轮：目标语言起草
 
-Choose natural target legal drafting after the structure is stable. Resolve `shall`, `must`, `may`, present tense, passive voice, defined terms, headings, and punctuation by target jurisdiction, document function, and house style. Return to pass one if style editing changes substance.
+法律结构稳定后，再选择自然的目标语言法律文书表达。根据目标法域、文件功能和 house style 处理 `shall`、`must`、`may`、一般现在时、被动语态、定义术语、标题和标点。风格调整改变实质含义时，返回第一轮重新检查。
 
-## Term decision record
+## 术语决策记录
 
-For each Tier 1 item, record: source term and sentence; source system and law; actor and procedural position; elements and effect; neighbouring concepts; candidates; reason for selection; rejected candidates; verification status; and whether a project lock is required.
+每个 Tier 1 项目记录：源术语及所在句子；源法系和法律；主体及程序位置；构成要件和法律效果；相邻概念；候选译法；选定理由；排除的备选译法；核验状态；以及是否需要项目锁定。
 
-Use the anchors as prompts. Prefer a source-law expression or authoritative parallel text when available. If no stable equivalent exists, use a functional translation, a controlled calque, a descriptive phrase, or a first-use explanation. Do not hide an unresolved collision behind a fluent word.
+把锚点作为提示使用。有法源表达或权威平行文本时优先采用。没有稳定对应词时，可使用功能性翻译、受控直译、描述性短语或首次出现时的解释。不要用流畅但含义不明的词掩盖未解决的概念冲突。
 
-## Legal-effect review
+## 法律效果审查
 
-Compare source and target for:
+逐项对照原文和译文：
 
-- actor, identity, capacity, and beneficiary;
-- rights, duties, powers, defences, and responsibility;
-- elements, thresholds, presumptions, exceptions, and negation;
-- scope, degree, timing, duration, quantity, and caps;
-- filing, acceptance, hearing, appeal, retrial, enforcement, and other procedure;
-- validity, effectiveness, revocation, rescission, termination, avoidance, and extinction;
-- remedy, damages, priority, third-party effect, causation, and burden of proof.
+- 主体、身份、能力和受益人；
+- 权利、义务、权力、抗辩和责任；
+- 构成要件、门槛、推定、例外和否定；
+- 范围、程度、时间、持续期间、数量和上限；
+- 提交、受理、审理、上诉、再审、执行及其他程序；
+- 有效性、生效、撤回、rescission、termination、avoidance 和消灭；
+- 救济、损害赔偿、优先顺位、对第三人的效力、因果关系和举证责任。
 
-Then ask whether a target-law reader would import an element or consequence absent from the source. A smooth sentence that changes one of these items is not acceptable.
+然后询问：目标法域读者是否会从译文中读出原文没有的要件或后果。只要流畅的句子改变了上述任何一项，就不能接受。
 
-## Release checklist
+## 放行清单
 
-- [ ] Four axes are resolved or material assumptions are stated.
-- [ ] Every Tier 1 choice is verified against source law or clearly marked unresolved.
-- [ ] Tier 2 terms are locked across the document and attachments.
-- [ ] No scope, exception, condition, time, number, procedure, remedy, or liability limit was lost.
-- [ ] No target-system element was silently imported.
-- [ ] No case, citation, source, party, date, or link was invented.
-- [ ] Clean mode contains no notes, alternatives, or source-language leakage.
-- [ ] Annotated/Bilingual Review mode identifies material uncertainty and review points.
-- [ ] The final text is fit for the stated reader and house style.
+- [ ] 四个维度已经确定，或已说明重要假设。
+- [ ] 每个 Tier 1 选择均已与法源核对，或明确标记为未解决。
+- [ ] Tier 2 术语在正文和附件中已经锁定并保持一致。
+- [ ] 没有遗漏范围、例外、条件、时间、数字、程序、救济或责任上限。
+- [ ] 没有无提示地引入目标法系的构成要件。
+- [ ] 没有虚构案件、引证、来源、当事人、日期或链接。
+- [ ] Clean 模式不含批注、备选译法或源语言泄露。
+- [ ] Annotated/Bilingual Review 模式标明重大不确定性和待审阅事项。
+- [ ] 最终文本适合既定读者和 house style。

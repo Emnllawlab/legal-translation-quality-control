@@ -1,182 +1,182 @@
-# Risk Anchors
+# 风险锚点
 
-These are compact triggers for review, not a dictionary. Each row tells the translator what context or legal effect to check. Choose wording from the source law, authoritative parallel text, target jurisdiction, and project term sheet. Do not copy an anchor mechanically.
+这些内容是供核查的精简触发词，不是词典。每一行都提示需要识别的语境或法律效果。应结合源法、权威平行文本、目标法域和项目术语表选择措辞，不得机械照抄锚点。
 
-## Contents
+## 目录
 
-- PRC civil and contract effects
-- PRC procedure and public-law effects
-- PRC company, property, IP, maritime, and criminal effects
-- Cross-border and dispute-resolution effects
-- Common-law false friends and procedural collisions
-- Historical and cross-system controls
+- 中国大陆法民商事和合同效果
+- 中国大陆法程序和公法效果
+- 中国大陆法公司、物权、知识产权、海商和刑事效果
+- 跨境和争议解决效果
+- 普通法易混词和程序冲突
+- 历史法和跨法系控制
 
-## PRC civil and contract effects
+## 中国大陆法民商事和合同效果
 
-| Trigger | Context distinction to check | Control question |
+| 触发词 | 需要区分的语境 | 控制问题 |
 |---|---|---|
-| 可撤销 | A status/effect; not the same as a power to withdraw | Does the wording preserve voidability rather than revocability? |
-| 撤销民事法律行为 | A qualifying legal act; separate from contract rescission | What act is undone, by whom, and with what effect? |
-| 撤销公司决议 | Court setting aside an adopted resolution | Is this a post-adoption challenge rather than withdrawal by the company? |
-| 撤回 | Offer, declaration, application, or procedural act withdrawn | Is the act being withdrawn before it produces the relevant effect? |
-| 解除合同 | Contractual relationship brought to an end under the governing law | Is the wording distinct from termination, expiry, or invalidity? |
-| 终止 | End of rights and obligations or an ongoing arrangement | What event ends the relationship and what survives? |
-| 无效 | No legal validity under the applicable rule | Is the text saying void, ineffective, unenforceable, or merely unavailable? |
-| 不成立 | Formation did not occur or was not legally recognized | Is this different from an invalid contract that was formed? |
-| 生效 | Effect begins, possibly after a condition or date | Is the issue formation, validity, or effectiveness? |
-| 对合同条款有两种以上解释 | Interpretive ambiguity that affects validity | Does the sentence preserve the validity-preserving interpretive rule? |
-| 违约 | Contractual non-performance or non-conforming performance | Is the source about breach of contract, not treaty violation or ordinary wrongdoing? |
-| 违约责任 | Consequences allocated for breach | Are damages, performance, cure, or other consequences kept separate? |
-| 违约金 | Agreed sum linked to breach and subject to governing adjustments | Is it a contractual damages mechanism rather than a penalty in the target system? |
-| 定金 | Earnest-money device with a statutory consequence | Does the context require the special return or forfeiture consequence rather than a generic deposit? |
-| 订金 | Payment or reservation amount without automatically importing the earnest-money rule | Does the source distinguish it from 定金? |
-| 保证金 | Security, bid, performance, or other deposit depending on the instrument | What function and release condition does the amount have? |
-| 折价 | Valuation-based compensation or taking value into account | Is it conversion into money, set-off, price adjustment, or valuation compensation? |
-| 不能清偿 | Starting point: inability to pay or satisfy the debt, not merely nonpayment or an outstanding balance; rebut this after checking the cited context. | Preserve inability to pay/satisfy. Do not add “as they fall due” unless maturity is actually stated or legally required in the cited context. |
-| 补充赔偿责任 | Secondary compensation liability after the primary debtor's insufficiency | Is it distinct from joint and several liability and from supplementary debt satisfaction? |
-| 连带责任 | Each liable party may be pursued for the whole within the legal rule | Has the translation preserved the stronger allocation of responsibility? |
-| 不当得利 | Restitutionary claim based on enrichment without legal basis | Is the claim restitution, damages, or a contractual payment? |
-| 无因管理 | Management of another's affairs without mandate | Is the actor managing another's affairs, not merely acting without consideration? |
+| 可撤销 | 一种法律状态/效果，不等同于撤回某项权力 | 译文是否保留 voidability，而不是 revocability？ |
+| 撤销民事法律行为 | 对符合条件的民事法律行为作出否定，与合同 rescission 区分 | 被撤销的是什么行为？由谁撤销？法律效果是什么？ |
+| 撤销公司决议 | 法院对已经作出的公司决议予以排除或否定 | 这是决议作出后的挑战，而不是公司撤回决议吗？ |
+| 撤回 | 撤回要约、意思表示、申请或程序行为 | 该行为是否在产生相关法律效果前被撤回？ |
+| 解除合同 | 依适用法律使合同关系终结 | 译文是否与 termination、expiry 和 invalidity 区分？ |
+| 终止 | 权利义务或持续性安排结束 | 哪一事件导致关系结束？哪些事项仍然存续？ |
+| 无效 | 依适用规则不产生法律效力 | 原文说的是 void、ineffective、unenforceable，还是仅仅不能主张？ |
+| 不成立 | 合同或法律关系没有形成，或未被法律认可为成立 | 这是否不同于已经成立但无效的合同？ |
+| 生效 | 法律效果开始，可能取决于条件或日期 | 问题是成立、效力，还是 effectiveness 的起算？ |
+| 对合同条款有两种以上解释 | 会影响效力的解释歧义 | 译文是否保留“选择有利于维持条款效力的解释”这一规则？ |
+| 违约 | 合同不履行或不符合约定的履行 | 原文说的是 breach of contract，而不是 treaty violation 或一般违法行为吗？ |
+| 违约责任 | 因违约分配的法律后果 | 是否分别保留损害赔偿、继续履行、补救等后果？ |
+| 违约金 | 与违约相联系、并可能受适用法调整的约定金额 | 这是合同损害赔偿机制，而不是目标法中的 penalty 吗？ |
+| 定金 | 带有法定后果的 earnest-money 安排 | 语境是否需要保留特定的双倍返还或没收后果，而不是泛称 deposit？ |
+| 订金 | 付款或预订款，不当然产生定金规则 | 原文是否有意将其与定金区分？ |
+| 保证金 | 依文件功能可能是担保、投标、履约或其他 deposit | 该款项的功能和返还条件是什么？ |
+| 折价 | 以价值评估为基础的补偿或计价处理 | 这里是 convert into money、set-off、price adjustment，还是估价补偿？ |
+| 不能清偿 | 起点是无力支付或清偿债务，不是单纯未付款或存在未清余额；应结合引用语境复核 | 是否保留 inability to pay/satisfy？没有明确或有法律依据时，不得加入 “as they fall due”。 |
+| 补充赔偿责任 | 主债务人不足清偿后的补充性赔偿责任 | 是否与 joint and several liability 以及补充清偿责任区分？ |
+| 连带责任 | 在法律规则范围内，每一责任人可能被要求承担全部债务 | 译文是否保留更强的责任分配效果？ |
+| 不当得利 | 无法律依据取得利益而产生的返还请求 | 请求是 restitution、damages，还是合同付款？ |
+| 无因管理 | 未受委托管理他人事务 | 行为人是在管理他人事务，而不只是无偿行事吗？ |
 
-## PRC procedure and public-law effects
+## 中国大陆法程序和公法效果
 
-| Trigger | Context distinction to check | Control question |
+| 触发词 | 需要区分的语境 | 控制问题 |
 |---|---|---|
-| 受理 | Court accepts a matter into the procedure | Does the wording preserve procedural acceptance rather than ordinary receipt? |
-| 立案（民事） | Registration/docketing of a civil case | Is this distinct from criminal case filing and from acceptance of evidence? |
-| 立案（刑事） | Initiation of a criminal investigation or case process | Who starts the process and at what procedural stage? |
-| 审理 | Court hears and adjudicates a matter | Is the relevant act hearing, trial, or adjudication? |
-| 审查 | Review of an application, legality, or material | Is it review rather than factual investigation? |
-| 调查 | General fact-finding or administrative inquiry | Is the proceeding criminal investigation, civil inquiry, or regulatory investigation? |
-| 侦查 | Criminal investigation by the competent authority | Does the wording identify the criminal-procedure setting? |
-| 质证 | Presentation, examination, and challenge of evidence | Is cross-examination of a witness actually intended? |
-| 举证责任 | Burden to produce or establish a proposition | Is the source assigning a burden, an evidentiary duty, or a standard? |
-| 证明标准 | Degree of proof required for a conclusion | Is the target phrase importing a foreign standard? |
-| 证据不足 | Insufficient evidence for the relevant conclusion | Does the result concern proof, admissibility, or merits? |
-| 非法证据排除 | Exclusion based on unlawful collection or use | Is the issue legality of collection rather than weight or credibility? |
-| 查封 | Seal or immobilize property under a measure | Is the property taken into custody, merely sealed, or frozen in an account? |
-| 扣押 | Seize or hold movable property or materials | Is this different from sealing real property or freezing funds? |
-| 冻结 | Restrict dealings with an account, asset, or right | Does the wording preserve a freeze rather than physical seizure? |
-| 保全 | Interim preservation measure | Is it property, evidence, conduct, or another form of preservation? |
-| 强制执行 | Compulsory enforcement of a judgment, award, or order | Is this enforcement, not contractual performance or policy implementation? |
-| 终结本次执行程序 | Procedural closure without necessarily extinguishing the claim | Does the text avoid saying the debt was fully discharged? |
-| 承认和执行 | Recognition gives effect; enforcement compels compliance | Are both stages intended and separately preserved? |
-| 裁定 | Procedural or other ruling, depending on document | Is it an order/ruling rather than a judgment on the merits? |
-| 判决 | Judicial judgment, usually on a claim or merits | Is the document actually a ruling, order, or decision? |
+| 受理 | 法院将事项纳入程序处理 | 译文是否保留程序上的 acceptance，而不是一般收取或收到？ |
+| 立案（民事） | 民事案件的登记或 docketing | 是否与刑事立案及证据接收区分？ |
+| 立案（刑事） | 主管机关启动刑事调查或案件程序 | 谁启动程序？处于哪个程序阶段？ |
+| 审理 | 法院听取并裁判案件 | 相关行为是 hearing、trial，还是 adjudication？ |
+| 审查 | 对申请、合法性或材料进行 review | 这里是 review，而不是事实调查吗？ |
+| 调查 | 一般事实查明或行政 inquiry | 是刑事侦查、民事调查，还是监管调查？ |
+| 侦查 | 主管机关进行刑事调查 | 译文是否明确刑事诉讼语境？ |
+| 质证 | 对证据的出示、审查和质疑 | 原文是否确实指对证人的 cross-examination？ |
+| 举证责任 | 提出或证明某一命题的 burden | 原文分配的是举证责任、证据义务，还是证明标准？ |
+| 证明标准 | 得出结论所需的证明程度 | 目标表达是否无意引入外国法的证明标准？ |
+| 证据不足 | 就相关结论而言证据不充分 | 后果涉及证明、可采性，还是实体判断？ |
+| 非法证据排除 | 因收集或使用方式违法而排除证据 | 问题是取证合法性，而不是证明力或可信度吗？ |
+| 查封 | 依措施封存或控制财产 | 财产是被控制、仅被封存，还是账户被冻结？ |
+| 扣押 | 扣留或控制动产、材料等 | 是否与查封不动产或冻结资金区分？ |
+| 冻结 | 限制对账户、资产或权利的处分 | 译文是否保留 freeze，而不是实体扣押？ |
+| 保全 | 临时性的 preservation measure | 保全对象是财产、证据、行为，还是其他事项？ |
+| 强制执行 | 对判决、裁决或命令的强制实施 | 这里是 enforcement，而不是合同履行或政策实施吗？ |
+| 终结本次执行程序 | 程序性终结，不当然消灭债权 | 译文是否避免表示债务已经全部清偿？ |
+| 承认和执行 | recognition 赋予法律效力，enforcement 强制实现 | 两个阶段是否都需要，并且分别保留？ |
+| 裁定 | 依文件和程序语境可能是 procedural ruling 或其他裁判 | 这是 order/ruling，而不是实体判决吗？ |
+| 判决 | 通常针对请求或实体问题的 judicial judgment | 文件实际上是否是 ruling、order 或 decision？ |
 
-## PRC company, property, IP, maritime, and criminal effects
+## 中国大陆法公司、物权、知识产权、海商和刑事效果
 
-| Trigger | Context distinction to check | Control question |
+| 触发词 | 需要区分的语境 | 控制问题 |
 |---|---|---|
-| 公司独立人格 | Company's separate legal personality | Is the issue entity separateness rather than limited liability alone? |
-| 否认公司独立人格 | Disregard of separate personality after a statutory threshold | Does the source establish the threshold and scope of liability? |
-| 补充清偿责任 | Secondary satisfaction of a debt | Is the request about satisfying debt rather than compensating loss? |
-| 抽逃出资 | Unlawful withdrawal of capital contribution | Is this different from unpaid or deficient contribution? |
-| 瑕疵出资 | Defective or deficient contribution | Has a contribution obligation matured, and what defect exists? |
-| 出资加速到期 | Acceleration of contribution obligation | What statutory trigger and amount are preserved? |
-| 忠实义务 | Duty of loyalty in the relevant company-law setting | Is a whole target-law fiduciary regime being imported? |
-| 关联关系 | Relationship enabling related-party treatment | Who is related, and what disclosure or approval follows? |
-| 自我交易 | Direct or indirect self-dealing | Is the transaction with the person, a controlled entity, or an associate? |
-| 公允价值 | Fair market/value benchmark | Is the comparison for price, proceeds, damages, or benefit? |
-| 物权 | Real right as a category of rights in a thing | Is a broad “property right” phrase too general? |
-| 用益物权 | Right to use and take benefits from another's thing | Is the concept usufruct-like, lease-based, or another right? |
-| 担保物权 | Security right in property | Is it a property security right rather than a personal guarantee? |
-| 按份共有 | Co-ownership with defined shares | Does the target phrase import tenancy rules? |
-| 共同共有 | Co-ownership without defined shares under the source law | Are shares intentionally not divided? |
-| 无权处分 | Disposition without authority or title | Does lack of authority affect the disposition, contract, or third-party protection? |
-| 善意取得 | Good-faith acquisition under source-law conditions | What knowledge, diligence, delivery, or registration conditions apply? |
-| 不得对抗善意第三人 | Cannot be asserted against a bona fide third party | Is the effect opposability, not invalidity? |
-| 登记未完成 | Registration condition not completed | Does the contract remain effective while the real right is not created? |
-| 商标性使用 | Use functioning as an indication of source | Is the use merely descriptive or nominative? |
-| 正当使用 | Lawful use under a specified statutory basis | What basis—generic, descriptive, geographic, or prior use—must be stated? |
-| 恶意申请/注册 | Bad faith at filing, application, or registration stage | Which time and act does the source address? |
-| 权利要求保护范围 | Scope defined by the claim's technical features | Is scope analysis being mistaken for a finding of infringement? |
-| 等同技术特征 | Equivalent technical feature under the source test | What test, element, and prosecution history limit the analysis? |
-| 禁止反悔原则（专利） | Reliance on an amendment or statement limiting a patent position | Is the source-law rule being confused with a foreign doctrine? |
-| 船舶碰撞 | Vessel-to-vessel collision | Is the incident instead contact with a fixed structure? |
-| 船舶触碰固定设施 | Vessel contact with a fixed structure | Does the target term need a descriptive explanation for the reader? |
-| 海事赔偿责任限制 | Limitation of liability for maritime claims | Is this a statutory cap, not a cap on each individual loss? |
-| 限制性债权 | Claim subject to limitation | Is it eligible for the fund, and what is its ranking? |
-| 无单放货 | Delivery without presentation of an original bill of lading | Who held the document and who was entitled to delivery? |
-| 契约托运人/实际托运人 | Contracting shipper versus actual shipper | Which party contracted, delivered, paid, and bears the asserted obligation? |
-| 一般立功/重大立功 | Sentencing-relevant meritorious conduct | Does the translation explain its role without importing a foreign mitigation doctrine? |
-| 上诉不加刑 | Restriction on increasing sentence on defendant's appeal | Is the procedural posture and exception preserved? |
-| 审判监督程序 | Trial-supervision/retrial mechanism | Is this distinct from ordinary appeal or prosecutorial protest? |
-| 教唆犯罪 | Instigation to commit a crime | Is ordinary encouragement being overstated as instigation or conspiracy? |
-| 共同犯罪 | Joint criminal offending | Is the source establishing joint intent and role, not merely assistance? |
+| 公司独立人格 | 公司作为独立主体的 separate legal personality | 问题是主体独立性，而不只是 limited liability 吗？ |
+| 否认公司独立人格 | 达到法定门槛后 disregard separate personality | 原文是否同时说明责任门槛和责任范围？ |
+| 补充清偿责任 | 对债务作次位清偿的责任 | 请求针对的是清偿债务，而不是赔偿损失吗？ |
+| 抽逃出资 | 非法抽回已缴纳的出资 | 是否与未出资或出资不足区分？ |
+| 瑕疵出资 | 出资存在缺陷或不足 | 出资义务是否已经到期？缺陷具体是什么？ |
+| 出资加速到期 | 出资义务提前到期 | 哪一法定触发条件和金额需要保留？ |
+| 忠实义务 | 相关公司法语境下的 duty of loyalty | 是否把完整的目标法 fiduciary regime 无意引入？ |
+| 关联关系 | 可能导致关联交易处理的关系 | 谁与谁具有关联？由此产生何种披露或批准要求？ |
+| 自我交易 | 直接或间接的 self-dealing | 交易对象是本人、控制的实体还是关联人？ |
+| 公允价值 | fair market/value 的比较基准 | 比较的是价格、所得、损害，还是利益？ |
+| 物权 | 以物为客体的一类 real right | 使用过于宽泛的 property right 是否会改变范围？ |
+| 用益物权 | 对他人之物使用并取得收益的权利 | 这是类似 usufruct 的权利、租赁权，还是其他权利？ |
+| 担保物权 | 以财产为客体的 security right | 这是物的担保权，而不是 personal guarantee 吗？ |
+| 按份共有 | 按确定份额享有的 co-ownership | 目标表达是否无意引入 tenancy 规则？ |
+| 共同共有 | 依源法不划分确定份额的 co-ownership | 不划分份额是否是原文有意安排？ |
+| 无权处分 | 无处分权限或权利基础而处分 | 欠缺权限影响的是处分、合同，还是善意第三人保护？ |
+| 善意取得 | 满足源法条件的 good-faith acquisition | 知情、注意、交付或登记条件是什么？ |
+| 不得对抗善意第三人 | cannot be asserted against a bona fide third party | 法律效果是 opposability，而不是无效吗？ |
+| 登记未完成 | 登记条件尚未完成 | 合同仍然有效但物权尚未设立吗？ |
+| 商标性使用 | 作为来源指示使用，即 use as a trademark | 该使用只是描述性使用或指示性使用吗？ |
+| 正当使用 | 依特定法定依据的 lawful use | 依据是通用、描述、地理还是在先使用？ |
+| 恶意申请/注册 | 申请或注册阶段的 bad faith | 原文针对的是哪个时间点和行为？ |
+| 权利要求保护范围 | 由权利要求技术特征确定的 scope | 是否把范围判断误写成已经构成侵权？ |
+| 等同技术特征 | 依源法判断的 equivalent technical feature | 适用何种判断标准？受哪些要件和 prosecution history 限制？ |
+| 禁止反悔原则（专利） | 因修改或陈述而限制专利立场的规则 | 是否把源法规则误套成外国 doctrine？ |
+| 船舶碰撞 | vessel-to-vessel collision | 事故是否其实是船舶触碰固定设施？ |
+| 船舶触碰固定设施 | 船舶与固定设施发生接触 | 是否需要用描述性表达帮助目标读者理解？ |
+| 海事赔偿责任限制 | 海事请求的 limitation of liability | 这是法定责任上限，而不是每项损失各自的上限吗？ |
+| 限制性债权 | 受责任限制制度约束的 claim | 该债权是否符合设立基金的条件？顺位是什么？ |
+| 无单放货 | 未提交正本提单即交付货物 | 谁持有单据？谁有权提货？ |
+| 契约托运人/实际托运人 | contracting shipper 与 actual shipper 的区分 | 谁订约、交货、付款并承担所主张的义务？ |
+| 一般立功/重大立功 | 与量刑有关的 meritorious conduct | 译文是否说明其作用，而没有引入外国的 mitigation doctrine？ |
+| 上诉不加刑 | 被告上诉时不得加重刑罚的限制 | 程序位置和例外是否保留？ |
+| 审判监督程序 | trial-supervision/retrial 机制 | 是否与普通上诉或检察抗诉区分？ |
+| 教唆犯罪 | instigation to commit a crime | 一般鼓励行为是否被夸大为教唆或 conspiracy？ |
+| 共同犯罪 | joint criminal offending | 原文是否要求共同故意和角色，而不只是帮助行为？ |
 
-## Cross-border and dispute-resolution effects
+## 跨境和争议解决效果
 
-| Trigger | Context distinction to check | Control question |
+| 触发词 | 需要区分的语境 | 控制问题 |
 |---|---|---|
-| 仲裁地 | Seat of arbitration | Is it distinct from the hearing venue or institution's location? |
-| 仲裁机构所在地 | Location of the arbitral institution | Has it been wrongly treated as the seat? |
-| 仲裁裁决 | Arbitral award | Is the source referring to a court judgment or ruling instead? |
-| 撤销仲裁裁决 | Setting aside an award by the competent court | Is this distinct from refusing enforcement? |
-| 不予执行仲裁裁决 | Refusal to enforce an award | Does the wording avoid saying the award was set aside? |
-| 仲裁协议存在/成立/有效 | Existence, formation, and validity are separate questions | Which question did the tribunal or court actually decide? |
-| 仲裁条款独立性 | Separability of the arbitration clause | Does the main contract's status get improperly transferred to the clause? |
-| 先决问题 | Preliminary or incidental issue | Is it a jurisdictional threshold, not a final merits holding? |
-| 互惠关系 | Reciprocity in recognition and enforcement | Is the type of reciprocity and evidentiary basis specified? |
-| 国际礼让 | Comity in cross-border jurisdiction | Is it a discretionary restraint rather than a binding jurisdiction rule? |
-| 不方便法院 | Forum non conveniens | Which court and discretionary factors are actually involved? |
-| 反域外适用推定 | Presumption against extraterritoriality | Is the target jurisdiction's interpretive doctrine being assumed? |
-| 法律选择 | Choice of law | Is it governing law, applicable law, or a jurisdiction clause? |
-| 长臂管辖 | Long-arm jurisdiction | What statutory contact and constitutional limit apply? |
-| 承认 | Recognition of a judgment, award, status, or act | Is enforcement also requested, or only legal effect? |
-| 执行管辖权 | Authority to compel compliance | Is it distinct from legislative or adjudicatory jurisdiction? |
+| 仲裁地 | seat of arbitration | 是否与开庭地点或仲裁机构所在地区分？ |
+| 仲裁机构所在地 | arbitral institution 的所在地 | 是否被错误地当作仲裁地？ |
+| 仲裁裁决 | arbitral award | 原文是否其实指法院 judgment 或 ruling？ |
+| 撤销仲裁裁决 | 有管辖权的法院 setting aside an award | 是否与拒绝执行区分？ |
+| 不予执行仲裁裁决 | refusal to enforce an award | 译文是否避免表示裁决已经被撤销？ |
+| 仲裁协议存在/成立/有效 | existence、formation 和 validity 是不同问题 | 仲裁庭或法院实际判断的是哪个问题？ |
+| 仲裁条款独立性 | separability of the arbitration clause | 是否把主合同的状态错误转移给仲裁条款？ |
+| 先决问题 | preliminary 或 incidental issue | 这是管辖门槛，而不是实体问题的最终裁判吗？ |
+| 互惠关系 | 承认和执行中的 reciprocity | 互惠的类型和证据基础是否明确？ |
+| 国际礼让 | 跨境管辖中的 comity | 这是裁量性的克制，而不是具有约束力的管辖规则吗？ |
+| 不方便法院 | forum non conveniens | 实际涉及哪个法院和哪些裁量因素？ |
+| 反域外适用推定 | presumption against extraterritoriality | 是否无依据地假定了目标法域的解释规则？ |
+| 法律选择 | choice of law | 这是 governing law、applicable law，还是 jurisdiction clause？ |
+| 长臂管辖 | long-arm jurisdiction | 需要哪些法定联系和宪法限制？ |
+| 承认 | 对判决、裁决、身份或行为的 recognition | 请求的是法律效力，还是同时请求 enforcement？ |
+| 执行管辖权 | 强制实现遵守的权限 | 是否与立法管辖权或裁判管辖权区分？ |
 
-## Common-law false friends and procedural collisions
+## 普通法易混词和程序冲突
 
-| Trigger | Context distinction to check | Control question |
+| 触发词 | 需要区分的语境 | 控制问题 |
 |---|---|---|
-| consideration | Contractual bargain element in common law | Is it value exchanged, not simply consideration in the ordinary sense? |
-| equity | Equitable jurisdiction or fairness concept | Is it equity, an ownership interest, or a share? |
-| remedy | Legal relief for a wrong or breach | Is the source asking for relief, not a general “solution”? |
-| damages | Monetary compensation awarded for loss | Is the amount a penalty, liquidated damages, restitution, or debt? |
-| penalty | Contractual sum or sanction with a jurisdiction-specific test | Do not automatically map to Chinese 违约金 or criminal punishment. |
-| rescission | Common-law contract undoing or statutory cancellation | Is the source using rescission, PRC 解除, or another effect? |
-| revocation | Withdrawal or cancellation of an authority, offer, or act | Is the object a civil act, offer, power, or decision? |
-| set aside | Court or competent body removes an order, award, or decision | Is the effect post-decision invalidation rather than withdrawal? |
-| termination | Ending a contract or relationship, often prospectively | Does the source instead undo a contract or declare it void? |
-| avoidance | Avoiding a transaction under a specific doctrine | What jurisdictional elements and effect accompany it? |
-| discharge | Release from an obligation or debt | Is it performance, release, bankruptcy discharge, or contract end? |
-| affirm/affirmed | Appellate maintenance of a judgment or confirmation of validity | Is the object a judgment, contract, or transaction? |
-| confirmation | Confirmation of status, fact, or validity | Is it a declaration, ratification, or an appellate affirmance? |
-| injunction | Equitable order restraining or requiring conduct | Is the source a Chinese preservation order or a common-law injunction? |
-| specific performance | Equitable order requiring performance | Is the source requesting performance, damages, or enforcement? |
-| estoppel | Bar arising from representation, reliance, or prior determination | Which doctrine—promissory, proprietary, or issue estoppel—applies? |
-| collateral estoppel | Issue preclusion in a common-law system | Is the source simply a prohibition against contradiction? |
-| issue preclusion | Preclusion of a decided issue | Is claim preclusion or a procedural bar intended? |
-| cause of action | Common-law basis for bringing a claim | Is the source a claim, legal basis, or factual cause? |
-| claim | Demand, cause, or asserted entitlement by context | Is it a claim for relief, a right, or a debt? |
-| pleading | Formal statement of claim or defence | Is it evidence, argument, or a procedural filing? |
-| submission | Written or oral argument to a court or tribunal | Is it a document, a party's argument, or a surrender of a right? |
-| deposition | Pretrial sworn testimony under a specific procedure | Is it an affidavit, witness statement, or court testimony? |
-| discovery | Disclosure and production process | Is it evidence disclosure, investigation, or document discovery? |
-| admission | Concession, evidentiary admission, or entry to a proceeding | Which procedural effect is intended? |
-| confession | Admission of criminal guilt or incriminating statement | Is it a civil admission rather than a confession? |
-| execution | Enforcement of a judgment, signing of an instrument, or performance | Which object and procedural setting control? |
-| enforcement | Compulsory implementation of a judgment, award, or rule | Is it contract performance or regulatory implementation? |
-| performance | Contractual performance or an act carried out | Does the context concern enforcement of a judgment? |
+| consideration | 普通法中的 contractual bargain 要件 | 这里是交换的对价，而不是一般意义上的“考虑”吗？ |
+| equity | 衡平法管辖或公平概念 | 这里是 equity、所有权利益，还是股份？ |
+| remedy | 针对错误或违约的法律救济 | 原文请求的是 relief，而不是一般的“解决方案”吗？ |
+| damages | 因损失判给的金钱赔偿 | 金额是 penalty、liquidated damages、restitution，还是债务？ |
+| penalty | 受具体法域标准约束的合同金额或制裁 | 不要自动对应中国法的违约金或刑罚。 |
+| rescission | 普通法中使合同回溯消灭的机制，或成文法上的取消 | 源文使用的是 rescission、中国法解除，还是其他法律效果？ |
+| revocation | 撤回或取消权限、要约或行为 | 对象是民事行为、要约、权限还是决定？ |
+| set aside | 法院或主管机关排除命令、裁决或决定 | 法律效果是事后否定，而不是撤回吗？ |
+| termination | 通常使合同或关系向后终结 | 源文是否其实要表达使合同回溯消灭或宣告无效？ |
+| avoidance | 依特定 doctrine 避免交易 | 该法域的构成要件和效果是什么？ |
+| discharge | 解除债务或义务 | 这里是履行、免责、破产免责，还是合同终止？ |
+| affirm/affirmed | 上诉法院维持判决，或确认有效 | 对象是判决、合同还是交易？ |
+| confirmation | 确认状态、事实或效力 | 这是 declaration、ratification，还是上诉维持？ |
+| injunction | 要求或禁止行为的衡平法命令 | 源文是中国法的 preservation order，还是普通法 injunction？ |
+| specific performance | 要求实际履行的衡平法命令 | 原文请求的是实际履行、损害赔偿，还是执行？ |
+| estoppel | 因陈述、信赖或既有裁判产生的禁止 | 适用的是 promissory、proprietary，还是 issue estoppel？ |
+| collateral estoppel | 普通法中的 issue preclusion | 源文是否只是禁止前后矛盾？ |
+| issue preclusion | 已裁判问题的排除效力 | 原文意在 claim preclusion，还是程序性障碍？ |
+| cause of action | 普通法中提起请求的法律基础 | 源文是 claim、法律依据，还是事实上的原因？ |
+| claim | 依语境可能是请求、诉因或主张的权利 | 是 claim for relief、权利，还是债权？ |
+| pleading | 正式的 claim 或 defence 文书 | 这是证据、论证，还是程序文件？ |
+| submission | 向法院或仲裁庭提交的书面或口头论证 | 是文件、当事人论点，还是放弃某项权利？ |
+| deposition | 特定程序下的审前宣誓证言 | 是 affidavit、witness statement，还是庭审证言？ |
+| discovery | 证据披露和文件提供程序 | 是证据披露、调查，还是 document discovery？ |
+| admission | 承认、证据上的自认，或进入程序 | 需要识别其具体程序效果。 |
+| confession | 对刑事罪责的承认或自证性陈述 | 这里是民事 admission，而不是 confession 吗？ |
+| execution | 执行判决、签署文书或履行 | 对象和程序语境是什么？ |
+| enforcement | 强制实施判决、裁决或规则 | 这里是 enforcement，还是合同履行或监管实施？ |
+| performance | 合同履行或实施某项行为 | 语境是否其实涉及判决执行？ |
 
-## Historical and cross-system controls
+## 历史法和跨法系控制
 
-| Trigger | Context distinction to check | Control question |
+| 触发词 | 需要区分的语境 | 控制问题 |
 |---|---|---|
-| 旧法/历史案件 | Wording may differ from current law | What text was in force on the relevant date? |
-| 解除（旧合同法语境） | Historical translation may differ from current civil-code usage | Verify the historical provision directly before choosing the verb. |
-| 解除合同（1999年《合同法》第93—97条直译） | For a direct translation of these provisions, the historical NPC English text used “dissolve a contract / dissolution of a contract” for 解除合同. This is a rebuttable reviewed starting point, not a historical database or universal answer; verify the text directly. | Distinguish it from current Civil Code `rescind` for 解除合同 and from old-law `rescind` used for 撤销合同; do not silently modernize or use a generic near-synonym. |
-| 撤销（旧合同法语境） | Historical contract doctrine and current civil-act doctrine may use different framing | Is the object a contract, civil act, offer, or decision? |
-| 终止（旧法/合同） | Historical text may distinguish ending from rescission differently | Do not modernize the source silently. |
-| 英国法/美国法 | Same label may carry different institutional or procedural content | Identify the target jurisdiction before choosing a fixed term. |
-| 香港法/内地法 | Shared Chinese wording may conceal different court and drafting usage | Check local institution, statute, and procedure. |
-| 新加坡/其他普通法法域 | General common-law concept does not establish local official wording | Verify the local act, court, and house style. |
-| civil law | May mean private-law subject or continental legal family | Read the sentence and surrounding headings before translating. |
-| party | May mean litigant, contracting party, political party, or participant | Identify the legal relation and procedural role. |
-| institution | May mean arbitral body, public institution, or legal institution | Use the concrete organizational or doctrinal sense. |
-| authority | May mean legal source, official body, power, or authorization | Identify whether it is a person, instrument, or legal basis. |
-| register/registration | May mean official register, filing, or act of recording | Does registration create, evidence, or publicize the right? |
-| judgment/ruling/order | Forum-specific document categories | Preserve the document type supplied by the source. |
-| recognition/enforcement | Legal effect versus coercive implementation | Keep the two stages separate when both are present. |
-| official/authoritative translation | Status claim requiring evidence | Do not describe a preference as official without a source. |
+| 旧法/历史案件 | 历史法律的措辞可能不同于现行法 | 相关日期当时有效的文本是什么？ |
+| 解除（旧合同法语境） | 历史译法可能不同于现行民法典用语 | 选择动词前是否直接核对历史条文？ |
+| 解除合同（1999年《合同法》第93—97条直译） | 对这些条文作直接翻译时，历史上的全国人大英文文本使用 “dissolve a contract / dissolution of a contract” 表达“解除合同”。这是可被复核的审阅起点，不是历史数据库，也不是普遍答案；仍应直接核对文本。 | 是否与现行《民法典》“解除合同”的 `rescind`，以及旧法“撤销合同”的 `rescind` 区分？不得默默现代化，也不得使用一般近义词替代。 |
+| 撤销（旧合同法语境） | 历史合同法 doctrine 可能与现行民事法律行为的表述不同 | 对象是合同、民事行为、要约还是决定？ |
+| 终止（旧法/合同） | 历史文本对结束、解除和消灭的区分可能不同 | 不要默默把原文现代化。 |
+| 英国法/美国法 | 同一标签可能具有不同的机构或程序含义 | 选择固定术语前是否确定具体目标法域？ |
+| 香港法/内地法 | 共同的中文措辞可能掩盖不同法院和起草用法 | 是否核对当地机构、法规和程序？ |
+| 新加坡/其他普通法法域 | 一般普通法概念不等于当地 official wording | 是否核对当地法案、法院和 house style？ |
+| civil law | 可能指私法，也可能指大陆法系 | 翻译前是否阅读句子和周边标题？ |
+| party | 可能指 litigant、contracting party、政治党派或参与者 | 法律关系和程序角色是什么？ |
+| institution | 可能指仲裁机构、公共机构或法律制度 | 应使用具体的组织或理论含义。 |
+| authority | 可能指法律渊源、机关、权限或授权 | 它是人、文件，还是法律依据？ |
+| register/registration | 可能指登记簿、备案或记录行为 | 登记是创设、证明，还是公示权利？ |
+| judgment/ruling/order | 不同法域对文书类别的区分 | 保留源文提供的文书类型。 |
+| recognition/enforcement | 法律效力与强制实施的区别 | 两个阶段同时出现时保持区分。 |
+| official/authoritative translation | 一种需要证据支持的身份表述 | 没有来源时不要把偏好称为 official。 |

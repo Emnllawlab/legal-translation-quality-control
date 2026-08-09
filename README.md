@@ -1,23 +1,23 @@
-# Legal Translation Quality Control
+# 法律翻译质量控制
 
-Legal Translation Quality Control is a publicly available, non-commercial skill for Chinese-English legal translation and review. It is designed for lawyers and legal teams working with PRC, US/UK common-law, Hong Kong, treaty, and mixed-law materials.
+法律翻译质量控制是一套公开提供、禁止商用的英中法律翻译与审阅技能，面向处理中国大陆法、美国/英国普通法、香港法、条约及混合法域材料的律师和法律团队。
 
-## What it does
+## 功能定位
 
-This project controls the translation process rather than supplying a complete bilingual dictionary. It makes the translator identify the source legal system, direction, applicable-law date, and intended use; separate low-risk language from high-risk legal concepts; translate legal effect before polishing style; verify difficult points against source law; and run a release check before delivery.
+本项目控制翻译过程，不提供完整双语词典。它要求翻译者先确定源法系、翻译方向、适用法律时间和用途；区分低风险表述与高风险法律概念；先处理法律效果，再润色文风；对疑难点核对法源；并在交付前完成放行检查。
 
-The included `risk-anchors.md` is deliberately compact. It contains a small independently selected set of lawyer-reviewed triggers and contextual guardrails for concepts that commonly collide across systems. An anchor tells the translator what distinction to investigate. It is not a mandatory answer, does not cover every legal term, and does not make an absent term unsupported or untranslatable.
+随附的 `risk-anchors.md` 刻意保持精简。它只收录少量经独立选择和律师审阅的触发词及语境控制，用于提示不同法系中经常发生冲突的概念。锚点告诉翻译者应当核查什么区别；它不是必须采用的答案，也不覆盖所有法律术语。未列入锚点不代表术语没有依据或无法翻译。
 
-## What it does not do
+## 不替代的工作
 
-It does not replace source-law research, an official translation, a project glossary, a qualified lawyer, or review by the intended court, tribunal, regulator, client, or supervising attorney. It does not contain a historical-law database. When the date or legal effect matters, verify the governing text directly.
+它不替代法源研究、官方译文、项目术语表、合资格律师，或预定法院、仲裁庭、监管机构、客户及主管律师的审阅。本项目不含历史法律数据库。日期或法律效果会影响译文时，直接核对适用文本。
 
-## Install and use
+## 安装和使用
 
-Install the directory `legal-translation-quality-control` as a skill. Invoke it for Chinese-English translation, bilingual review, or legal-effect quality control. Specify the document, translation direction, source system, applicable-law date if known, intended use, and desired mode (Clean, Annotated, or Bilingual Review). If the document resolves those facts, do not repeat them as questions.
+将目录 `legal-translation-quality-control` 作为技能安装。需要进行英中翻译、双语审阅或法律效果质量控制时调用它。说明文件、翻译方向、源法系、已知的适用法律时间、用途和模式（Clean、Annotated 或 Bilingual Review）。文件已经说明的事项不要重复提问。
 
-For routine text, let the workflow remain efficient. For Tier 1 concepts, use the anchors as prompts, create a project term sheet, verify the source law, and complete the release checklist. Keep project-specific terms and holdout test material outside the installed skill.
+普通文本按比例保持效率。遇到 Tier 1 概念时，以锚点作为核查提示，建立项目术语表，核对法源并完成放行清单。项目专用术语和留出测试材料应保存在已安装技能之外。
 
-## Attribution and licence
+## 署名和许可
 
-Created and maintained by DL-Agenticlaw. This project is licensed under CC BY-NC 4.0: attribution is required; commercial use is prohibited; adaptations and derivatives are permitted on the same attribution and non-commercial basis. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
+本项目由 DL-Agenticlaw 创建和维护。项目采用 CC BY-NC 4.0：必须署名，禁止商用，允许在同样的署名和非商业条件下修改、改编和制作衍生版本。详见 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。

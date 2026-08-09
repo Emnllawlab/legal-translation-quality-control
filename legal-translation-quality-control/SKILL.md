@@ -1,56 +1,56 @@
 ---
 name: legal-translation-quality-control
-description: Apply a legal translation quality-control workflow to Chinese-English legal translation, review, and bilingual comparison across PRC, US/UK common-law, Hong Kong, international, and mixed-law materials. Use it for contracts, pleadings, judgments, legislation, opinions, arbitration materials, and other legal documents when legal effect, cross-system terminology, source verification, or release quality matters.
+description: 用于英中法律翻译、审阅和双语核对的质量控制工作流，适用于中国大陆法、美国/英国普通法、香港法、国际法及混合法域材料。适合处理合同、诉状、判决、法律法规、法律意见、仲裁材料及其他需要控制法律效果、跨法系术语、法源核验或交付质量的法律文件。
 ---
 
-# Legal Translation Quality Control
+# 法律翻译质量控制
 
-Use this skill to control the translation decision process, not to supply a complete bilingual dictionary or a guaranteed answer key. Translate efficiently when risk is low; slow down only where a wording choice can change legal meaning.
+使用本技能控制翻译判断过程，不把它当作完整双语词典或保证正确的答案库。低风险内容保持效率；只有当措辞可能改变法律含义时，才提高审查强度。
 
-## 1. Preflight: resolve four axes
+## 1. 预检：确定四个维度
 
-Determine, from the document and context where possible:
+尽可能根据文件和背景确定：
 
-1. Source legal system: PRC, US/UK common law, Hong Kong, treaty/international, or mixed.
-2. Direction: Chinese→English or English→Chinese. Do not infer direction from legal system.
-3. Applicable-law date: identify the law in force when the transaction, conduct, or proceeding occurred. If the date is unresolved and changes the wording, ask; otherwise proceed and state the assumption.
-4. Use and readers: internal understanding, client work, court/arbitration filing, legislation comparison, transaction signing, or academic work.
+1. 源法系：中国大陆法、美国/英国普通法、香港法、条约/国际法或混合法域。
+2. 翻译方向：中文→英文或英文→中文。不得根据法系推定翻译方向。
+3. 适用法律时间：确定交易、行为或程序发生时有效的法律。日期未确定且会影响措辞时再询问；否则说明假设后继续。
+4. 用途和读者：内部理解、客户工作、法院/仲裁提交、法律法规对照、交易签署或学术研究。
 
-Do not ask questions already resolved by the text. Ask only when the missing axis would materially change the translation.
+文件已经解决的问题不要重复询问。只有缺失的维度会实质改变译文时才提问。
 
-## 2. Classify risk and choose the mode
+## 2. 分级并选择交付模式
 
-- Tier 1: a mistake may change a party, legal status, element, procedure, remedy, priority, burden, or liability. Verify source law and legal effect before release.
-- Tier 2: a definition, institution, document name, repeated term, or cross-document expression that must remain consistent. Lock it in a project term sheet.
-- Tier 3: ordinary wording that does not carry an independent legal effect. Translate efficiently and review for completeness.
+- Tier 1：错误可能改变当事人、法律地位、构成要件、程序、救济、优先顺位、举证责任或责任范围。交付前核对法源和法律效果。
+- Tier 2：定义、机构、文书名称、重复术语或跨文件表达，需要在项目中保持一致。写入项目术语表并锁定。
+- Tier 3：不独立承载法律效果的普通表述。保持效率，并检查完整性。
 
-Choose one output mode:
+选择一种交付模式：
 
-- Clean: deliver only the target-language text; do not leak annotations, alternatives, or source-language notes.
-- Annotated: deliver the translation plus concise notes on Tier 1 choices, unresolved assumptions, and verification points.
-- Bilingual Review: place source and translation side by side and identify terminology, legal-effect, and drafting issues for lawyer review.
+- Clean：只交付目标语言文本；不得泄露批注、备选译法或源语言笔记。
+- Annotated：交付译文，并用简短批注说明 Tier 1 选择、未解决的假设和核验事项。
+- Bilingual Review：并列原文和译文，标出术语、法律效果和起草层面的问题，供律师审阅。
 
-## 3. Translate in two passes
+## 3. 分两轮翻译
 
-First produce a legal-structure draft. Preserve actors, acts, rights, duties, permissions, conditions, exceptions, negation, degree, time, quantity, procedure, remedy, causation, and legal effect. Do not merge or soften a rule for fluency.
+第一轮先形成法律结构稿。保留行为主体、行为、权利、义务、权限、条件、例外、否定、程度、时间、数量、程序、救济、因果关系和法律效果。不得为了流畅而合并或弱化规则。
 
-Then produce the target-language legal style draft. Select wording by target jurisdiction, document function, and house style. Do not impose a universal rule such as always using `shall`; choose among `shall`, `must`, `may`, the present tense, or another form deliberately.
+第二轮再按目标语言的法律文书习惯成稿。根据目标法域、文件功能和 house style 选择措辞。不得机械地规定一律使用 `shall`；应有意识地在 `shall`、`must`、`may`、一般现在时或其他表达之间作出选择。
 
-Use `references/risk-anchors.md` only when a trigger appears. It supplies contextual guardrails and questions, not binding answers. When a source term appears in the file, consult the relevant row before release; do not load the entire file for ordinary translations. A term absent from it remains translatable: analyze the sentence and law, then verify when risk warrants.
+仅在出现相应触发词时查阅 `references/risk-anchors.md`。该文件提供语境控制和核查问题，不提供必须照抄的答案。文件中出现触发词时，交付前查阅相关行；普通翻译不必加载全文。未列入锚点的术语仍然可以翻译：先分析句子和法律，再按风险决定是否核验。
 
-## 4. Route by source system and direction
+## 4. 按源法系和方向分流
 
-- PRC source: identify the Chinese legal concept and its effect first; verify the current or historical source law and any authoritative parallel text for Tier 1 terms.
-- US/UK source: identify the target common-law jurisdiction and preserve its institutional and procedural distinctions; do not substitute PRC concepts because a Chinese gloss looks familiar.
-- Hong Kong source: use local court, institution, statute, and drafting conventions; do not transplant a Hong Kong name into another jurisdiction.
-- Treaty or mixed source: separate concepts by source system and use the treaty or institution's authoritative text where one exists.
+- 中国大陆法源文：先识别中文法律概念及其效果；Tier 1 术语核对现行或历史法源及可靠的权威平行文本。
+- 美国/英国法源文：先确定具体普通法法域，保留其机构和程序区别；不得因为中文释义看似熟悉就替换为中国法概念。
+- 香港法源文：采用本地法院、机构、法规和起草习惯；不得把香港名称直接移植到其他法域。
+- 条约或混合法源文：按源法系拆分概念；有权威文本时使用条约或相关机构的权威表述。
 
-For historical law, verify the text directly if the compact anchors do not cover the date. This lite skill contains no historical-law database.
+涉及历史法律时，如果精简锚点没有覆盖相关日期，直接核对当时的法条。本轻量版不含历史法律数据库。
 
-## 5. Verify and release
+## 5. 核验并放行
 
-For each Tier 1 item, compare the candidate wording against the source-law elements and effects, then perform a target-reader reverse check: would the wording import an extra element, remedy, defence, or procedural consequence? Record the chosen term and rejected alternatives in the project term sheet.
+对每个 Tier 1 项目，将候选措辞与法源中的构成要件和法律效果对照，再从目标读者角度反向检查：该措辞是否引入原文没有的要件、救济、抗辩或程序后果？将选定术语和排除的备选译法记录在项目术语表中。
 
-Do not fabricate case names, docket numbers, parties, source descriptions, citations, links, or legal history. Do not call a wording official or standard without a source. Run the release checklist in `references/quality-control-protocol.md`; use `references/validation-protocol.md` for holdout and round-trip testing when changing this workflow or testing a high-risk document. Apply `references/document-controls.md` for document-specific style and formatting controls.
+不得虚构案名、案号、当事人、来源说明、引证、链接或法律沿革。没有来源时，不得把某种措辞称为 official 或 standard。使用 `references/quality-control-protocol.md` 的放行清单；修改本工作流或测试高风险文件时，使用 `references/validation-protocol.md` 做留出样本和回译测试；按 `references/document-controls.md` 执行具体文书的格式和风格控制。
 
-Before release, confirm that the translation preserves legal propositions, scope, timing, exceptions, responsibility, procedure, and remedies; uses locked terms consistently; states material uncertainties in Annotated/Bilingual Review mode; and contains no internal notes in Clean mode.
+放行前确认译文保留法律命题、范围、时间、例外、责任、程序和救济；锁定术语前后一致；在 Annotated/Bilingual Review 模式中说明重大不确定性；Clean 模式中不含内部笔记。

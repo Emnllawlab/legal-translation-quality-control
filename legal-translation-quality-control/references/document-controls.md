@@ -1,36 +1,36 @@
-# Document Controls
+# 文书控制规则
 
-Apply only the controls relevant to the document. These are drafting checks, not universal translation answers.
+只适用与文件相关的控制项。这些是起草审查规则，不是放之四海而皆准的翻译答案。
 
-## Contracts
+## 合同
 
-- Preserve defined terms, cross-references, schedules, conditions precedent, exceptions, limitation language, and order of precedence.
-- Select `shall`, `must`, `will`, `may`, or present tense by target jurisdiction, obligation type, document function, and house style. Do not apply an automatic replacement rule.
-- Distinguish validity, effectiveness, performance, breach, rescission, termination, expiry, and discharge.
-- Keep “best/reasonable/all reasonable efforts,” knowledge qualifiers, materiality, and liability caps at their stated strength.
-- Do not convert a Chinese legal consequence into a familiar common-law remedy without checking the governing law.
+- 保留定义术语、交叉引用、附件、先决条件、例外、责任限制措辞和优先顺序。
+- 根据目标法域、义务类型、文件功能和 house style，在 `shall`、`must`、`will`、`may` 和一般现在时之间选择。不得机械替换。
+- 区分 validity、effectiveness、performance、breach、rescission、termination、expiry 和 discharge。
+- 保持 “best/reasonable/all reasonable efforts”、知悉限定、重大性和责任上限原有的强度。
+- 未核对适用法律前，不得把中国法的法律后果改写成看似熟悉的普通法救济。
 
-## Litigation and arbitration
+## 诉讼和仲裁
 
-- Separate claim, defence, application, appeal, protest, retrial, enforcement, recognition, and execution.
-- Distinguish judgment, ruling/order, decision, award, evidence, testimony, pleading, and submission according to the forum.
-- Preserve who applied, who bore the burden, what the tribunal decided, and whether the result was dismissal, refusal, setting aside, affirmance, remand, or enforcement.
-- Keep court, tribunal, seat, institution, governing law, and enforcement forum distinct.
+- 区分 claim、defence、application、appeal、protest、retrial、enforcement、recognition 和 execution。
+- 根据审理机构区分 judgment、ruling/order、decision、award、evidence、testimony、pleading 和 submission。
+- 保留申请人、承担举证责任者、裁判机构作出的判断，以及结果究竟是 dismissal、refusal、setting aside、affirmance、remand 还是 enforcement。
+- 保持 court、tribunal、seat、institution、governing law 和 enforcement forum 的区别。
 
-## Legislation and regulations
+## 法律法规
 
-- Preserve article structure, mandatory/permissive force, provisos, exceptions, cross-references, enumerations, and temporal application.
-- Verify the text in force on the legally relevant date. Do not retrofit a later code or later institutional name into an earlier matter.
-- Use official titles and numbering where supplied. Do not create an “official translation” claim from a stylistic preference.
+- 保留条文结构、强制/任意规范强度、但书、例外、交叉引用、列举项和时间适用范围。
+- 核对法律相关日期时有效的文本。不得把后来的法典或机构名称倒灌进早期事项。
+- 已提供官方名称和编号时照用。不得仅凭文风偏好宣称某译法是“official translation”。
 
-## Opinions and explanatory writing
+## 法律意见和说明性文字
 
-- Separate holding, reasoning, factual finding, submission, assumption, illustration, and policy view.
-- Preserve modal strength: “may,” “must,” “is entitled to,” “is presumed,” and “is not required to” are not interchangeable.
-- Do not turn a descriptive comparison into a statement of the governing law.
+- 区分 holding、reasoning、事实认定、submission、assumption、illustration 和 policy view。
+- 保留情态强度：“may”、“must”、“is entitled to”、“is presumed” 和 “is not required to” 不得互换。
+- 不要把描述性比较写成适用法律的确定性陈述。
 
-## Clean-up
+## 清理和交付
 
-- Keep names, dates, numbers, article references, defined terms, tables, and citations consistent.
-- Remove internal comments and source-language notes only in Clean mode; retain them in Annotated or Bilingual Review where useful.
-- Do not silently repair an unclear source. Flag it and provide a controlled translation or assumption.
+- 保持名称、日期、数字、条文引用、定义术语、表格和引证一致。
+- 仅在 Clean 模式中删除内部评论和源语言笔记；在 Annotated 或 Bilingual Review 模式中，必要时保留它们。
+- 不要默默修复含糊的原文。应标明问题，并提供受控译文或明确假设。
