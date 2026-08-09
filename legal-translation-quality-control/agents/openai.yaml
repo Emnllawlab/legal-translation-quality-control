@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legal Translation Quality Control"
+  short_description: "Control legal effect and release quality in translation"
+  default_prompt: "Use $legal-translation-quality-control to translate or review this legal text with source-law, legal-effect, and release checks."
