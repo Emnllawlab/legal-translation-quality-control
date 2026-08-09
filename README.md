@@ -20,4 +20,4 @@
 
 ## 署名和许可
 
-本项目由 DL-Agenticlaw 创建和维护。项目采用 CC BY-NC 4.0：必须署名，禁止商用，允许在同样的署名和非商业条件下修改、改编和制作衍生版本。详见 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。
+本项目由 DL-Agenticlaw 创建和维护。项目采用 CC BY-NC 4.0：允许修改、改编和制作衍生版本，但必须署名，且仍然禁止商用。详见 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。
