@@ -16,6 +16,8 @@
 
 将目录 `legal-translation-quality-control` 作为技能安装。需要进行英中翻译、双语审阅或法律效果质量控制时调用它。说明文件、翻译方向、源法系、已知的适用法律时间、用途和模式（Clean、Annotated 或 Bilingual Review）。文件已经说明的事项不要重复提问。
 
+`legal-translation-quality-control/agents/openai.yaml` 是供支持该格式的平台读取的界面元数据，用于显示名称、简短说明和默认提示词；它不是核心翻译规则。没有该平台时，技能仍可通过 `SKILL.md` 正常使用。
+
 普通文本按比例保持效率。遇到 Tier 1 概念时，以锚点作为核查提示，建立项目术语表，核对法源并完成放行清单。项目专用术语和留出测试材料应保存在已安装技能之外。
 
 ## 署名和许可

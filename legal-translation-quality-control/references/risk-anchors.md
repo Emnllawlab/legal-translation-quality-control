@@ -19,7 +19,7 @@
 | 撤销民事法律行为 | 对符合条件的民事法律行为作出否定，与合同 rescission 区分 | 被撤销的是什么行为？由谁撤销？法律效果是什么？ |
 | 撤销公司决议 | 法院对已经作出的公司决议予以排除或否定 | 这是决议作出后的挑战，而不是公司撤回决议吗？ |
 | 撤回 | 撤回要约、意思表示、申请或程序行为 | 该行为是否在产生相关法律效果前被撤回？ |
-| 解除合同 | 依适用法律使合同关系终结 | 译文是否与 termination、expiry 和 invalidity 区分？ |
+| 解除合同 | 依适用法律使合同关系终结；现行法和历史法可能使用不同英文表达 | 译文是否与 termination、expiry 和 invalidity 区分？是否保留未履行部分停止履行、已履行部分恢复原状或采取其他补救措施并请求赔偿损失等具体后果？如为历史合同法，是否查阅当时文本和历史法分区？ |
 | 终止 | 权利义务或持续性安排结束 | 哪一事件导致关系结束？哪些事项仍然存续？ |
 | 无效 | 依适用规则不产生法律效力 | 原文说的是 void、ineffective、unenforceable，还是仅仅不能主张？ |
 | 不成立 | 合同或法律关系没有形成，或未被法律认可为成立 | 这是否不同于已经成立但无效的合同？ |
@@ -32,7 +32,7 @@
 | 订金 | 付款或预订款，不当然产生定金规则 | 原文是否有意将其与定金区分？ |
 | 保证金 | 依文件功能可能是担保、投标、履约或其他 deposit | 该款项的功能和返还条件是什么？ |
 | 折价 | 以价值评估为基础的补偿或计价处理 | 这里是 convert into money、set-off、price adjustment，还是估价补偿？ |
-| 不能清偿 | 针对本次测试的公司责任句式，reviewed starting point 为 “debts that the company is unable to satisfy”；这是可反驳、依语境调整的起点，不是普遍答案。只有原文语境支持时，才考虑 “unable to pay its debts”。裸用 “unpaid debts”、“outstanding debts/balance” 或 “unsatisfied debts” 均应排除，因为它们只陈述未付款或余额状态，没有保留无力清偿。 | 译文是否明确表达 inability to pay/satisfy？除非原文或适用法律检验支持到期要求，否则不得加入 “as they fall due”。 |
+| 不能清偿 | 无力清偿债务，区别于债务尚未清偿或存在未清余额；具体表达应结合原文和适用法律检验判断 | 译文是否保留 inability to pay/satisfy？单独使用 “unpaid debts”、“outstanding debts” 或 “unsatisfied debts” 是否只是陈述未付款状态，而未表达无力清偿？原文或适用法律检验没有到期要求时，是否避免加入 “as they fall due”？ |
 | 补充赔偿责任 | 主债务人不足清偿后的补充性赔偿责任 | 是否与 joint and several liability 以及补充清偿责任区分？ |
 | 连带责任 | 在法律规则范围内，每一责任人可能被要求承担全部债务 | 译文是否保留更强的责任分配效果？ |
 | 不当得利 | 无法律依据取得利益而产生的返还请求 | 请求是 restitution、damages，还是合同付款？ |
@@ -135,20 +135,20 @@
 | remedy | 针对错误或违约的法律救济 | 原文请求的是 relief，而不是一般的“解决方案”吗？ |
 | damages | 因损失判给的金钱赔偿 | 金额是 penalty、liquidated damages、restitution，还是债务？ |
 | penalty | 受具体法域标准约束的合同金额或制裁 | 不要自动对应中国法的违约金或刑罚。 |
-| rescission | 普通法中使合同回溯消灭的机制，或成文法上的取消 | 源文使用的是 rescission、中国法解除，还是其他法律效果？ |
+| rescission | 普通法中使合同回溯消灭的机制，或成文法上的取消 | 原文使用的是 rescission、中国法解除，还是其他法律效果？ |
 | revocation | 撤回或取消权限、要约或行为 | 对象是民事行为、要约、权限还是决定？ |
 | set aside | 法院或主管机关排除命令、裁决或决定 | 法律效果是事后否定，而不是撤回吗？ |
-| termination | 通常使合同或关系向后终结 | 源文是否其实要表达使合同回溯消灭或宣告无效？ |
+| termination | 通常使合同或关系向后终结 | 原文是否其实要表达使合同回溯消灭或宣告无效？ |
 | avoidance | 依特定 doctrine 避免交易 | 该法域的构成要件和效果是什么？ |
 | discharge | 解除债务或义务 | 这里是履行、免责、破产免责，还是合同终止？ |
 | affirm/affirmed | 上诉法院维持判决，或确认有效 | 对象是判决、合同还是交易？ |
 | confirmation | 确认状态、事实或效力 | 这是 declaration、ratification，还是上诉维持？ |
-| injunction | 要求或禁止行为的衡平法命令 | 源文是中国法的 preservation order，还是普通法 injunction？ |
+| injunction | 要求或禁止行为的衡平法命令 | 原文是中国法的 preservation order，还是普通法 injunction？ |
 | specific performance | 要求实际履行的衡平法命令 | 原文请求的是实际履行、损害赔偿，还是执行？ |
 | estoppel | 因陈述、信赖或既有裁判产生的禁止 | 适用的是 promissory、proprietary，还是 issue estoppel？ |
-| collateral estoppel | 普通法中的 issue preclusion | 源文是否只是禁止前后矛盾？ |
+| collateral estoppel | 普通法中的 issue preclusion | 原文是否只是禁止前后矛盾？ |
 | issue preclusion | 已裁判问题的排除效力 | 原文意在 claim preclusion，还是程序性障碍？ |
-| cause of action | 普通法中提起请求的法律基础 | 源文是 claim、法律依据，还是事实上的原因？ |
+| cause of action | 普通法中提起请求的法律基础 | 原文是 claim、法律依据，还是事实上的原因？ |
 | claim | 依语境可能是请求、诉因或主张的权利 | 是 claim for relief、权利，还是债权？ |
 | pleading | 正式的 claim 或 defence 文书 | 这是证据、论证，还是程序文件？ |
 | submission | 向法院或仲裁庭提交的书面或口头论证 | 是文件、当事人论点，还是放弃某项权利？ |
@@ -166,7 +166,7 @@
 |---|---|---|
 | 旧法/历史案件 | 历史法律的措辞可能不同于现行法 | 相关日期当时有效的文本是什么？ |
 | 解除（旧合同法语境） | 历史译法可能不同于现行民法典用语 | 选择动词前是否直接核对历史条文？ |
-| 解除合同（1999年《合同法》第93—97条直译） | 对这些条文作直接翻译时，历史上的全国人大英文文本使用 “dissolve a contract / dissolution of a contract” 表达“解除合同”。这是可被复核的审阅起点，不是历史数据库，也不是普遍答案；仍应直接核对文本。 | 是否与现行《民法典》“解除合同”的 `rescind`，以及旧法“撤销合同”的 `rescind` 区分？不得默默现代化，也不得使用一般近义词替代。 |
+| 解除合同（1999年《合同法》第93—97条直译） | 对这些条文作直接翻译时，历史上的全国人大英文文本使用 “dissolve a contract / dissolution of a contract” 表达“解除合同”。这是可被复核的审阅起点，不是历史数据库，也不是普遍答案；仍应直接核对文本。 | 是否与现行《民法典》相关条款平行文本中的 `rescind / rescission`，以及旧法“撤销合同”的 `rescind` 区分？如果采用历史文本作为对照，是否保留 `dissolve / dissolution`，避免将历史措辞默默现代化？ |
 | 撤销（旧合同法语境） | 历史合同法 doctrine 可能与现行民事法律行为的表述不同 | 对象是合同、民事行为、要约还是决定？ |
 | 终止（旧法/合同） | 历史文本对结束、解除和消灭的区分可能不同 | 不要默默把原文现代化。 |
 | 英国法/美国法 | 同一标签可能具有不同的机构或程序含义 | 选择固定术语前是否确定具体目标法域？ |
@@ -177,6 +177,6 @@
 | institution | 可能指仲裁机构、公共机构或法律制度 | 应使用具体的组织或理论含义。 |
 | authority | 可能指法律渊源、机关、权限或授权 | 它是人、文件，还是法律依据？ |
 | register/registration | 可能指登记簿、备案或记录行为 | 登记是创设、证明，还是公示权利？ |
-| judgment/ruling/order | 不同法域对文书类别的区分 | 保留源文提供的文书类型。 |
+| judgment/ruling/order | 不同法域对文书类别的区分 | 保留原文提供的文书类型。 |
 | recognition/enforcement | 法律效力与强制实施的区别 | 两个阶段同时出现时保持区分。 |
 | official/authoritative translation | 一种需要证据支持的身份表述 | 没有来源时不要把偏好称为 official。 |
