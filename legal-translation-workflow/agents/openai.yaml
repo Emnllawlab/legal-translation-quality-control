@@ -1,0 +1,4 @@
+interface:
+  display_name: "法律翻译工作流"
+  short_description: "控制法律效果、法系差异和译文交付质量"
+  default_prompt: "使用 $legal-translation-workflow 翻译或审阅这份法律文本，完成法系识别、法律效果、术语风险和交付前检查。"
