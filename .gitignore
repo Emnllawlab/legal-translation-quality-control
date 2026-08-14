@@ -4,3 +4,6 @@
 .env
 __pycache__/
 *.py[cod]
+
+# Local evaluation materials are kept outside the distributable Skill package.
+/evaluation/
